@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/icathaid/hash-table/issues"
   },
-  "homepage": "https://github.com/icathaid/hash-table#readme"
+  "homepage": "https://github.com/icathaid/hash-table#readme",
+  "dependencies": {
+    "util": "^0.11.1"
+  }
 }
